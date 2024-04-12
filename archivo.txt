@@ -1,3 +1,8 @@
 chanchito feliz 
+<<<<<<< HEAD
 arhivo en master linea 2 para combprobaer
 tercer chanchito feliz 
+=======
+esto existe en rama C chanco del archivo.txt de RAMA C linea 2
+tercer chanchito feliz 
+>>>>>>> ramaC
